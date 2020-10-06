@@ -1,0 +1,77 @@
+/*selector styles*/
+nav{
+    text-align: center;
+    margin: 10px;
+}
+
+/*heading styles*/
+h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #720000;
+    text-align: center;
+}
+
+/*make footer heading different*/
+h4{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #CDCDCD;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3e3e41;
+    width: 75%;
+    text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*birds on a line hr*/
+hr{
+    width: 85%;
+    height: 44px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url("images/hr-eva-hellmann5.jpg");
+}
+
+/*background*/
+div{
+    width: 78%;
+    background-color: silver;
+    border-width: 3px;
+    border-style: solid;
+    border-color: slategray;
+    padding: 5px;
+    margin: auto;
+}
+
+footer{
+    background-color: rgb(49, 49, 49);
+}
+
+ol{
+    font-size: 13px;
+}
+
+/*center image*/
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/*link styles*/
+a:link
+{color: #F40000;}
+
+a:visited
+{color: #616163;}
+
+a:hover
+{color: #720000;}
+
+a:active
+{color: #CDCDCD;}
