@@ -47,6 +47,12 @@ div{
     margin: auto;
 }
 
+ul{
+    text-align: justify;
+    margin-right: auto;
+    margin -left: auto;
+}
+
 footer{
     background-color: rgb(49, 49, 49);
 }
