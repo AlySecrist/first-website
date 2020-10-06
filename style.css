@@ -48,9 +48,8 @@ div{
 }
 
 ul{
-    text-align: justify;
-    margin-right: auto;
-    margin -left: auto;
+    padding-right: auto;
+    padding-left: auto;
 }
 
 footer{
